@@ -1,12 +1,10 @@
 #!/bin/bash
 
-# Install zsh config
+# Install tmux config
 
 # Осторожно, можно потерять текущие конфиги
 ln -sf $HOME/.config/tmux/.tmux.conf.local $HOME/.tmux.conf.local
 
-# install tmux
-sudo apt-get install tmux -y
 # install oh my tmux
 if ! [ -d "$HOME/.tmux"]
 then
