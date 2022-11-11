@@ -17,5 +17,5 @@ rm ~/.tmux.conf.local
 ```
 3. Создайте ссылку
 ```
-ln -s ~/.config/tmux/.tmux.conf.local ~/.tmux.conf.local   
+ln -s ~/.config/tmux/init ~/.tmux.conf.local   
 ```
