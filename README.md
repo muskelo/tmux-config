@@ -9,7 +9,7 @@
 
 1. Скачайте конфиг
 ```
-git clone git@github.com:Muskelo/tmux-config.git ~/.config/tmux
+git clone https://github.com/Muskelo/tmux-config.git ~/.config/tmux
 ```
 2. Удалить (или переместите) текущий конфиг
 ```
